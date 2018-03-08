@@ -1,0 +1,5 @@
+# Blocking outbrain
+127.0.0.1 widgets.outbrain.com
+127.0.0.1 www.widgets.outbrain.com
+127.0.0.1 outbrain.com
+127.0.0.1 www.outbrain.com
